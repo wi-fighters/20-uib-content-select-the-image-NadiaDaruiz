@@ -7,12 +7,25 @@
   }
   
   /* Task 1 */
+  h3 {
+    color: blue;
+  }
   
   /* Task 2 */
-  
+  .color-red {
+    color: red;
+  }
+
   /* Task 3 */
   
   /* Task 4 */
-  
+  a[href$=".com"] {
+    background-color: yellow;
+  }
+
+
   /* Task 5 */
+  #color-pink {
+    color: magenta;
+  }
   
