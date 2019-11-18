@@ -17,12 +17,14 @@
   }
 
   /* Task 3 */
+  img+img {
+    border: 3px solid blue;
+  }
   
   /* Task 4 */
   a[href$=".com"] {
     background-color: yellow;
   }
-
 
   /* Task 5 */
   #color-pink {
